@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Análise de Dados com SQL
 
 Projeto de análise de dados utilizando SQL para explorar informações de um conjunto de dados financeiros.
@@ -46,6 +45,3 @@ analise-vendas-sql
 
 Thamires Alves  
 Projeto desenvolvido para portfólio de **Análise de Dados**.
-=======
-# analise-vendas-sql
->>>>>>> 3bacba91f96f697253396c731bf4f1b17127a89b
